@@ -22,7 +22,7 @@ void student :: putdata()
 int main()
 {
     student s;
-    s.getdata(05);
+    s.getdata(8);
     s.putdata();
     return 0;
 }
